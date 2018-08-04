@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Spaceship Scene.unity
+  isLoaded: 1
+  isActive: 1

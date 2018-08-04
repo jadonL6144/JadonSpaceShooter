@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jadon_Long_Space_Shooter", "Jadon_Long_Space_Shooter.csproj", "{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jadon_Long_Space_Shooter.Editor", "Jadon_Long_Space_Shooter.Editor.csproj", "{1C200166-4058-736C-795C-5A89DCB686A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C200166-4058-736C-795C-5A89DCB686A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C200166-4058-736C-795C-5A89DCB686A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C200166-4058-736C-795C-5A89DCB686A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C200166-4058-736C-795C-5A89DCB686A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{02F1D497-8D35-3D11-F6B5-CCF778B20AB8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Background_Scroller.cs">
+    <Files>
+      <File FileName="Assets/Shooter.cs" Line="12" Column="7" />
+      <File FileName="Assets/Player_Controller.cs" Line="26" Column="43" />
+      <File FileName="Assets/Moving.cs" Line="28" Column="5" />
+      <File FileName="Assets/Background_Scroller.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Jadon__Long__Space__Shooter PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
